@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36ef0c98-5f05-4afb-a450-958d3169b841" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../The Last Survivor\exportToHTML" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/EnemyTypes/ArrowEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/RoomManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/SpawnManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/Items/GrenadeGun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Configurations/MainMenuConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/PlayerItemHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/Items/BulletBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/RoomItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/Items/CustomGrenade.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/UsernameDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/Sliding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/Items/GrapplingGun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/GameUsernameDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/LavaCollision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/WaitingRoom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/Items/Gun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/Items/SniperRifle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/LobbyManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.high-definition@10.8.1/Editor/Compositor/CompositorWindow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/SignTextBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AboutMe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/Items/MultiplayerGun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/ObjectCollision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/PortalCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/EnemyAI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/StairClimbing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_Text.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/Stopwatch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@10.8.1/Runtime/Volume/VolumeParameter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/PlayerItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/PauseMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundMusicManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/LevelStatistics.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/Climbing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/BeatGameConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/LeaderboardController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/Items/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/ScoreBoard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@10.8.1/Editor/Lighting/IESReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/Items/SingleShotgun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speedrun/StaticCannon.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/EnemyTypes/ArrowEnemy.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/Wallrunning.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/SignTextBehavior.cs" />
+      <option value="$PROJECT_DIR$/Assets/Materials/TutorialShader.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/Hologram.shader" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/BouncyPlatform.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/PortalTextureSetup.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/PortalCamera.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/PortalStuff/PortalTeleporter.cs" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.probuilder@4.5.2/Content/Shader/StandardVertexColor.shader" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/Items/Hooking.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/BeatGameConfig.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/Items/ExplosiveBarrel.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/LevelStatistics.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/ScoreBoardItem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/GameUsernameDisplay.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/UsernameDisplay.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/SpawnPoint.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/SpawnManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/StairClimb.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/PauseMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/LobbyManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/WaitingRoom.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/Items/ItemInfo.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/Items/Item.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/RoomManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundMusicManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/StairClimbing.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/PlayerManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/Items/MultiplayerGun.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/Items/SniperRifle.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/Items/AssaultRifle.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/Items/SingleShotgun.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/LevelManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/Sliding.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/ObjectCollision.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/EnemyAI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AboutMe.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Configurations/MainMenuConfig.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/LeaderboardController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/FracturedWallBehavior.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/Items/BulletBehaviour.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/PlayerMovement.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/Items/CustomGrenade.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/EnemyTypes/CannonEnemy.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/LevelSelect.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/PlayerController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/LavaCollision.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/StaticCannon.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Speedrun/EnemyTypes/CannonBullet.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MultiplayerNetworking/PlaygroundPlayer.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="2Fxxp2It1v32JNsnLr6O6OpP8Aw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502052" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionAnalysis.Framework..NETFramework,Version=v4.7.1" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/BuildGame/The Last Survivor.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Kevin\The Last Survivor\BuildGame" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36ef0c98-5f05-4afb-a450-958d3169b841" name="Default Changelist" comment="" />
+      <created>1665447722088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665447722088</updated>
+      <workItem from="1665447746496" duration="5775000" />
+      <workItem from="1665686502460" duration="255000" />
+      <workItem from="1665780994772" duration="373000" />
+      <workItem from="1665781423591" duration="5591000" />
+      <workItem from="1665869506381" duration="720000" />
+      <workItem from="1665883273048" duration="4972000" />
+      <workItem from="1665951247952" duration="7916000" />
+      <workItem from="1666279376451" duration="2021000" />
+      <workItem from="1666489450146" duration="4008000" />
+      <workItem from="1666535210718" duration="8417000" />
+      <workItem from="1666566162085" duration="3402000" />
+      <workItem from="1666646772998" duration="89000" />
+      <workItem from="1666659257844" duration="594000" />
+      <workItem from="1666726880454" duration="553000" />
+      <workItem from="1666744247364" duration="5184000" />
+      <workItem from="1666827970850" duration="923000" />
+      <workItem from="1666919364134" duration="2229000" />
+      <workItem from="1667005559672" duration="7273000" />
+      <workItem from="1667078695859" duration="1217000" />
+      <workItem from="1667172911251" duration="2385000" />
+      <workItem from="1667217448146" duration="1027000" />
+      <workItem from="1667260387025" duration="2101000" />
+      <workItem from="1667262952823" duration="6419000" />
+      <workItem from="1667270379909" duration="1536000" />
+      <workItem from="1667424849557" duration="595000" />
+      <workItem from="1667445537860" duration="1375000" />
+      <workItem from="1667486779668" duration="961000" />
+      <workItem from="1667514140869" duration="4843000" />
+      <workItem from="1667697371666" duration="6809000" />
+      <workItem from="1667753803958" duration="4708000" />
+      <workItem from="1667961098547" duration="6507000" />
+      <workItem from="1668023063367" duration="645000" />
+      <workItem from="1668039434433" duration="7092000" />
+      <workItem from="1668055057225" duration="858000" />
+      <workItem from="1668120021725" duration="2137000" />
+      <workItem from="1668203109195" duration="596000" />
+      <workItem from="1668220937030" duration="8424000" />
+      <workItem from="1668292186297" duration="1188000" />
+      <workItem from="1668389914971" duration="819000" />
+      <workItem from="1668430828571" duration="1505000" />
+      <workItem from="1668477458075" duration="1765000" />
+      <workItem from="1668566894586" duration="1654000" />
+      <workItem from="1668615107007" duration="2795000" />
+      <workItem from="1668650336889" duration="217000" />
+      <workItem from="1668657221042" duration="4938000" />
+      <workItem from="1668737334424" duration="7653000" />
+      <workItem from="1668815204926" duration="1194000" />
+      <workItem from="1668831986577" duration="2635000" />
+      <workItem from="1668905909705" duration="5106000" />
+      <workItem from="1668993715994" duration="4912000" />
+      <workItem from="1669080904986" duration="9630000" />
+      <workItem from="1669320910628" duration="2095000" />
+      <workItem from="1669326790553" duration="1563000" />
+      <workItem from="1669579000140" duration="1208000" />
+      <workItem from="1669599636826" duration="2561000" />
+      <workItem from="1669845232545" duration="8178000" />
+      <workItem from="1669911629766" duration="1259000" />
+      <workItem from="1670038408724" duration="4388000" />
+      <workItem from="1670100755518" duration="741000" />
+      <workItem from="1670126788595" duration="2589000" />
+      <workItem from="1670199524563" duration="6058000" />
+      <workItem from="1670443857163" duration="2498000" />
+      <workItem from="1670469199126" duration="1018000" />
+      <workItem from="1670540372897" duration="3781000" />
+      <workItem from="1670632038364" duration="815000" />
+      <workItem from="1670811556581" duration="1795000" />
+      <workItem from="1670906846165" duration="598000" />
+      <workItem from="1671068289526" duration="1624000" />
+      <workItem from="1671119747140" duration="2383000" />
+      <workItem from="1671594018122" duration="3006000" />
+      <workItem from="1671652694123" duration="3199000" />
+      <workItem from="1671765456395" duration="6618000" />
+      <workItem from="1671836533419" duration="2190000" />
+      <workItem from="1671855902461" duration="949000" />
+      <workItem from="1671905881732" duration="284000" />
+      <workItem from="1671915472942" duration="2899000" />
+      <workItem from="1672009428564" duration="2338000" />
+      <workItem from="1672076560538" duration="597000" />
+      <workItem from="1672176512112" duration="8386000" />
+      <workItem from="1672263780528" duration="8344000" />
+      <workItem from="1672341188052" duration="10624000" />
+      <workItem from="1672450597499" duration="9943000" />
+      <workItem from="1672518726571" duration="13533000" />
+      <workItem from="1672590827846" duration="8909000" />
+      <workItem from="1672872794808" duration="6400000" />
+      <workItem from="1672947372931" duration="23924000" />
+      <workItem from="1673046191151" duration="10525000" />
+      <workItem from="1673144273906" duration="1624000" />
+      <workItem from="1673202454952" duration="597000" />
+      <workItem from="1673224202842" duration="7651000" />
+      <workItem from="1673295257874" duration="8320000" />
+      <workItem from="1673495865879" duration="3939000" />
+      <workItem from="1673539280192" duration="132000" />
+      <workItem from="1673837445630" duration="8167000" />
+      <workItem from="1673920256284" duration="8637000" />
+      <workItem from="1674009976989" duration="4902000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
